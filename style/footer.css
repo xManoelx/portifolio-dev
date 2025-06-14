@@ -3,7 +3,7 @@ footer {
     background-color: #2d2d2d;
     padding: 40px 0;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 0.625rem;
     margin-bottom: 20px;
 }
 
@@ -31,7 +31,7 @@ footer {
     padding: 12px 24px;
     background-color: #3a3a3a;
     color: #ffffff;
-    border-radius: 25px;
+    border-radius: 1.5625rem;
     text-decoration: none;
     font-weight: 500;
     border: 1px solid #4a4a4a;

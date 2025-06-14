@@ -34,7 +34,7 @@ main {
 /* Project Cards */
 .project-card {
     background-color: #2d2d2d;
-    border-radius: 10px;
+    border-radius: 0.625rem;
     overflow: hidden;
     transition: all 0.3s ease;
     cursor: pointer;
